@@ -1,0 +1,10 @@
+{
+    "name": "osdeck",
+    "version": "1.0.0",
+    "author": "Vukky",
+    "original_pain_version": "1.0.0",
+    "min_pain_version": "1.0.0",
+    "entrypoints": {
+        "osdeck": "src/index.js"
+    }
+}
